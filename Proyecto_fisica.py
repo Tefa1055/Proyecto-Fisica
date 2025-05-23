@@ -211,4 +211,4 @@ frame_grafico.pack(padx=10, pady=10, fill="both", expand=True)
 label_explicacion = tk.Label(scrollable_frame, text="", font=("Helvetica", 11), bg="#f0f0f0", justify="left", anchor="w", wraplength=850)
 label_explicacion.pack(padx=20, pady=(0, 15), fill="x")
 
-ventana.mainloop()
+ventana.mainloop() 
